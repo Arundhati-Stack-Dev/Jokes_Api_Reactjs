@@ -2,7 +2,7 @@
 
 This project is made using Ant Design (React UI library)
 
-## To install Ant Design
+ To install Ant Design
 
 ### `npm install antd`
 
